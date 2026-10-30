@@ -10,7 +10,7 @@ Le projet est installé dans ce dépôt privé sous forme de fichiers utilisable
 
 Les fichiers de cette page sont le code de l’application : ce ne sont pas des documents à remplir. Pour l’utilisation quotidienne, vous passerez par l’interface.
 
-## Au quotidien : quatre gestes
+## Au quotidien (ou de façon hebdomadaire) : quatre gestes
 
 1. **Analyses** : chacun prépare une fiche avec faits, sources, scénarios, risques et conditions d’invalidation.
 2. **Comité** : tous les quatorze jours, discuter les propositions et consigner les décisions. Ne rien changer est une décision valable.
