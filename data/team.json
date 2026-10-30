@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "revision": 0,
+  "updated_at": null,
+  "team": {
+    "name": "NextChallenge · Équipe",
+    "sectors": {
+      "Technologie": "Tim",
+      "Santé": "Sarah",
+      "Finance": "Lucas",
+      "Consommation": "Diane",
+      "Industrie": "Layana",
+      "Énergie": "Jade"
+    },
+    "coordinator": "Mathis",
+    "next_meeting": null
+  },
+  "portfolio": {
+    "initialized": false,
+    "cash": 200000.0,
+    "positions": [],
+    "as_of": null,
+    "note": ""
+  },
+  "manual_quotes": {},
+  "proposals": [],
+  "meetings": [],
+  "decisions": [],
+  "audit": []
+}
